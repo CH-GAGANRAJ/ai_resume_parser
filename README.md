@@ -37,12 +37,12 @@ The API will be available at http://localhost:8000
 streamlit run interface.py
 ```
 ## Usage
-# Upload New Resume:
+### Upload New Resume:
 - **Go to the "Upload New Resume" tab**
 - **Select a resume file (PDF, DOCX, DOC, or TXT)**
 - **Click "Upload and Parse"**
 - **View the extracted information**
-# View Past Resumes:
+### View Past Resumes:
 - **Go to the "View Past Resumes" tab**
 - **See all previously uploaded resumes in a table**
 - **Select a resume from the dropdown to view detailed information**
